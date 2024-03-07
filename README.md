@@ -1,1 +1,2 @@
-# Codsoft-Level-1-Task-3-calculator
+# Cosesoft Level 1 task 3
+Calculator by Harshal Patil
